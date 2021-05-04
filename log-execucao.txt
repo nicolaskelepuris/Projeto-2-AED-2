@@ -1,0 +1,1834 @@
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 1, Celular: Celular da pessoa 1, Email: Email da pessoa 1
+Estrutura de dados antes do comando -> Fila: Quantidade -> 0
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 1, Celular: Celular da pessoa 1, Email: Email da pessoa 1
+Estrutura de dados apos comando -> Fila: Quantidade -> 1
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 2, Celular: Celular da pessoa 2, Email: Email da pessoa 2
+Estrutura de dados antes do comando -> Fila: Quantidade -> 1
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 2, Celular: Celular da pessoa 2, Email: Email da pessoa 2
+Estrutura de dados apos comando -> Fila: Quantidade -> 2
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 3, Celular: Celular da pessoa 3, Email: Email da pessoa 3
+Estrutura de dados antes do comando -> Fila: Quantidade -> 2
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 3, Celular: Celular da pessoa 3, Email: Email da pessoa 3
+Estrutura de dados apos comando -> Fila: Quantidade -> 3
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 4, Celular: Celular da pessoa 4, Email: Email da pessoa 4
+Estrutura de dados antes do comando -> Fila: Quantidade -> 3
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 4, Celular: Celular da pessoa 4, Email: Email da pessoa 4
+Estrutura de dados apos comando -> Fila: Quantidade -> 4
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 5, Celular: Celular da pessoa 5, Email: Email da pessoa 5
+Estrutura de dados antes do comando -> Fila: Quantidade -> 4
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 5, Celular: Celular da pessoa 5, Email: Email da pessoa 5
+Estrutura de dados apos comando -> Fila: Quantidade -> 5
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 6, Celular: Celular da pessoa 6, Email: Email da pessoa 6
+Estrutura de dados antes do comando -> Fila: Quantidade -> 5
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 6, Celular: Celular da pessoa 6, Email: Email da pessoa 6
+Estrutura de dados apos comando -> Fila: Quantidade -> 6
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 7, Celular: Celular da pessoa 7, Email: Email da pessoa 7
+Estrutura de dados antes do comando -> Fila: Quantidade -> 6
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 7, Celular: Celular da pessoa 7, Email: Email da pessoa 7
+Estrutura de dados apos comando -> Fila: Quantidade -> 7
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 8, Celular: Celular da pessoa 8, Email: Email da pessoa 8
+Estrutura de dados antes do comando -> Fila: Quantidade -> 7
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 8, Celular: Celular da pessoa 8, Email: Email da pessoa 8
+Estrutura de dados apos comando -> Fila: Quantidade -> 8
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 9, Celular: Celular da pessoa 9, Email: Email da pessoa 9
+Estrutura de dados antes do comando -> Fila: Quantidade -> 8
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 9, Celular: Celular da pessoa 9, Email: Email da pessoa 9
+Estrutura de dados apos comando -> Fila: Quantidade -> 9
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 10, Celular: Celular da pessoa 10, Email: Email da pessoa 10
+Estrutura de dados antes do comando -> Fila: Quantidade -> 9
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 10, Celular: Celular da pessoa 10, Email: Email da pessoa 10
+Estrutura de dados apos comando -> Fila: Quantidade -> 10
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 11, Celular: Celular da pessoa 11, Email: Email da pessoa 11
+Estrutura de dados antes do comando -> Fila: Quantidade -> 10
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 11, Celular: Celular da pessoa 11, Email: Email da pessoa 11
+Estrutura de dados apos comando -> Fila: Quantidade -> 11
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 12, Celular: Celular da pessoa 12, Email: Email da pessoa 12
+Estrutura de dados antes do comando -> Fila: Quantidade -> 11
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 12, Celular: Celular da pessoa 12, Email: Email da pessoa 12
+Estrutura de dados apos comando -> Fila: Quantidade -> 12
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 13, Celular: Celular da pessoa 13, Email: Email da pessoa 13
+Estrutura de dados antes do comando -> Fila: Quantidade -> 12
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 13, Celular: Celular da pessoa 13, Email: Email da pessoa 13
+Estrutura de dados apos comando -> Fila: Quantidade -> 13
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 14, Celular: Celular da pessoa 14, Email: Email da pessoa 14
+Estrutura de dados antes do comando -> Fila: Quantidade -> 13
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 14, Celular: Celular da pessoa 14, Email: Email da pessoa 14
+Estrutura de dados apos comando -> Fila: Quantidade -> 14
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 15, Celular: Celular da pessoa 15, Email: Email da pessoa 15
+Estrutura de dados antes do comando -> Fila: Quantidade -> 14
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 15, Celular: Celular da pessoa 15, Email: Email da pessoa 15
+Estrutura de dados apos comando -> Fila: Quantidade -> 15
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 16, Celular: Celular da pessoa 16, Email: Email da pessoa 16
+Estrutura de dados antes do comando -> Fila: Quantidade -> 15
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 16, Celular: Celular da pessoa 16, Email: Email da pessoa 16
+Estrutura de dados apos comando -> Fila: Quantidade -> 16
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 17, Celular: Celular da pessoa 17, Email: Email da pessoa 17
+Estrutura de dados antes do comando -> Fila: Quantidade -> 16
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 17, Celular: Celular da pessoa 17, Email: Email da pessoa 17
+Estrutura de dados apos comando -> Fila: Quantidade -> 17
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 18, Celular: Celular da pessoa 18, Email: Email da pessoa 18
+Estrutura de dados antes do comando -> Fila: Quantidade -> 17
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 18, Celular: Celular da pessoa 18, Email: Email da pessoa 18
+Estrutura de dados apos comando -> Fila: Quantidade -> 18
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 19, Celular: Celular da pessoa 19, Email: Email da pessoa 19
+Estrutura de dados antes do comando -> Fila: Quantidade -> 18
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 19, Celular: Celular da pessoa 19, Email: Email da pessoa 19
+Estrutura de dados apos comando -> Fila: Quantidade -> 19
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 20, Celular: Celular da pessoa 20, Email: Email da pessoa 20
+Estrutura de dados antes do comando -> Fila: Quantidade -> 19
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 20, Celular: Celular da pessoa 20, Email: Email da pessoa 20
+Estrutura de dados apos comando -> Fila: Quantidade -> 20
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 21, Celular: Celular da pessoa 21, Email: Email da pessoa 21
+Estrutura de dados antes do comando -> Fila: Quantidade -> 20
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 21, Celular: Celular da pessoa 21, Email: Email da pessoa 21
+Estrutura de dados apos comando -> Fila: Quantidade -> 21
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 22, Celular: Celular da pessoa 22, Email: Email da pessoa 22
+Estrutura de dados antes do comando -> Fila: Quantidade -> 21
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 22, Celular: Celular da pessoa 22, Email: Email da pessoa 22
+Estrutura de dados apos comando -> Fila: Quantidade -> 22
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 23, Celular: Celular da pessoa 23, Email: Email da pessoa 23
+Estrutura de dados antes do comando -> Fila: Quantidade -> 22
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 23, Celular: Celular da pessoa 23, Email: Email da pessoa 23
+Estrutura de dados apos comando -> Fila: Quantidade -> 23
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 24, Celular: Celular da pessoa 24, Email: Email da pessoa 24
+Estrutura de dados antes do comando -> Fila: Quantidade -> 23
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 24, Celular: Celular da pessoa 24, Email: Email da pessoa 24
+Estrutura de dados apos comando -> Fila: Quantidade -> 24
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 25, Celular: Celular da pessoa 25, Email: Email da pessoa 25
+Estrutura de dados antes do comando -> Fila: Quantidade -> 24
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 25, Celular: Celular da pessoa 25, Email: Email da pessoa 25
+Estrutura de dados apos comando -> Fila: Quantidade -> 25
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 26, Celular: Celular da pessoa 26, Email: Email da pessoa 26
+Estrutura de dados antes do comando -> Fila: Quantidade -> 25
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 26, Celular: Celular da pessoa 26, Email: Email da pessoa 26
+Estrutura de dados apos comando -> Fila: Quantidade -> 26
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 27, Celular: Celular da pessoa 27, Email: Email da pessoa 27
+Estrutura de dados antes do comando -> Fila: Quantidade -> 26
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 27, Celular: Celular da pessoa 27, Email: Email da pessoa 27
+Estrutura de dados apos comando -> Fila: Quantidade -> 27
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 28, Celular: Celular da pessoa 28, Email: Email da pessoa 28
+Estrutura de dados antes do comando -> Fila: Quantidade -> 27
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 28, Celular: Celular da pessoa 28, Email: Email da pessoa 28
+Estrutura de dados apos comando -> Fila: Quantidade -> 28
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 29, Celular: Celular da pessoa 29, Email: Email da pessoa 29
+Estrutura de dados antes do comando -> Fila: Quantidade -> 28
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 29, Celular: Celular da pessoa 29, Email: Email da pessoa 29
+Estrutura de dados apos comando -> Fila: Quantidade -> 29
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 30, Celular: Celular da pessoa 30, Email: Email da pessoa 30
+Estrutura de dados antes do comando -> Fila: Quantidade -> 29
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 30, Celular: Celular da pessoa 30, Email: Email da pessoa 30
+Estrutura de dados apos comando -> Fila: Quantidade -> 30
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 31, Celular: Celular da pessoa 31, Email: Email da pessoa 31
+Estrutura de dados antes do comando -> Fila: Quantidade -> 30
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 31, Celular: Celular da pessoa 31, Email: Email da pessoa 31
+Estrutura de dados apos comando -> Fila: Quantidade -> 31
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 32, Celular: Celular da pessoa 32, Email: Email da pessoa 32
+Estrutura de dados antes do comando -> Fila: Quantidade -> 31
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 32, Celular: Celular da pessoa 32, Email: Email da pessoa 32
+Estrutura de dados apos comando -> Fila: Quantidade -> 32
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 33, Celular: Celular da pessoa 33, Email: Email da pessoa 33
+Estrutura de dados antes do comando -> Fila: Quantidade -> 32
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 33, Celular: Celular da pessoa 33, Email: Email da pessoa 33
+Estrutura de dados apos comando -> Fila: Quantidade -> 33
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 34, Celular: Celular da pessoa 34, Email: Email da pessoa 34
+Estrutura de dados antes do comando -> Fila: Quantidade -> 33
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 34, Celular: Celular da pessoa 34, Email: Email da pessoa 34
+Estrutura de dados apos comando -> Fila: Quantidade -> 34
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 35, Celular: Celular da pessoa 35, Email: Email da pessoa 35
+Estrutura de dados antes do comando -> Fila: Quantidade -> 34
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 35, Celular: Celular da pessoa 35, Email: Email da pessoa 35
+Estrutura de dados apos comando -> Fila: Quantidade -> 35
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 36, Celular: Celular da pessoa 36, Email: Email da pessoa 36
+Estrutura de dados antes do comando -> Fila: Quantidade -> 35
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 36, Celular: Celular da pessoa 36, Email: Email da pessoa 36
+Estrutura de dados apos comando -> Fila: Quantidade -> 36
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 37, Celular: Celular da pessoa 37, Email: Email da pessoa 37
+Estrutura de dados antes do comando -> Fila: Quantidade -> 36
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 37, Celular: Celular da pessoa 37, Email: Email da pessoa 37
+Estrutura de dados apos comando -> Fila: Quantidade -> 37
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 38, Celular: Celular da pessoa 38, Email: Email da pessoa 38
+Estrutura de dados antes do comando -> Fila: Quantidade -> 37
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 38, Celular: Celular da pessoa 38, Email: Email da pessoa 38
+Estrutura de dados apos comando -> Fila: Quantidade -> 38
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 39, Celular: Celular da pessoa 39, Email: Email da pessoa 39
+Estrutura de dados antes do comando -> Fila: Quantidade -> 38
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 39, Celular: Celular da pessoa 39, Email: Email da pessoa 39
+Estrutura de dados apos comando -> Fila: Quantidade -> 39
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 40, Celular: Celular da pessoa 40, Email: Email da pessoa 40
+Estrutura de dados antes do comando -> Fila: Quantidade -> 39
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 40, Celular: Celular da pessoa 40, Email: Email da pessoa 40
+Estrutura de dados apos comando -> Fila: Quantidade -> 40
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 41, Celular: Celular da pessoa 41, Email: Email da pessoa 41
+Estrutura de dados antes do comando -> Fila: Quantidade -> 40
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 41, Celular: Celular da pessoa 41, Email: Email da pessoa 41
+Estrutura de dados apos comando -> Fila: Quantidade -> 41
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 42, Celular: Celular da pessoa 42, Email: Email da pessoa 42
+Estrutura de dados antes do comando -> Fila: Quantidade -> 41
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 42, Celular: Celular da pessoa 42, Email: Email da pessoa 42
+Estrutura de dados apos comando -> Fila: Quantidade -> 42
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 43, Celular: Celular da pessoa 43, Email: Email da pessoa 43
+Estrutura de dados antes do comando -> Fila: Quantidade -> 42
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 43, Celular: Celular da pessoa 43, Email: Email da pessoa 43
+Estrutura de dados apos comando -> Fila: Quantidade -> 43
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 44, Celular: Celular da pessoa 44, Email: Email da pessoa 44
+Estrutura de dados antes do comando -> Fila: Quantidade -> 43
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 44, Celular: Celular da pessoa 44, Email: Email da pessoa 44
+Estrutura de dados apos comando -> Fila: Quantidade -> 44
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 45, Celular: Celular da pessoa 45, Email: Email da pessoa 45
+Estrutura de dados antes do comando -> Fila: Quantidade -> 44
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 45, Celular: Celular da pessoa 45, Email: Email da pessoa 45
+Estrutura de dados apos comando -> Fila: Quantidade -> 45
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 46, Celular: Celular da pessoa 46, Email: Email da pessoa 46
+Estrutura de dados antes do comando -> Fila: Quantidade -> 45
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 46, Celular: Celular da pessoa 46, Email: Email da pessoa 46
+Estrutura de dados apos comando -> Fila: Quantidade -> 46
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 47, Celular: Celular da pessoa 47, Email: Email da pessoa 47
+Estrutura de dados antes do comando -> Fila: Quantidade -> 46
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 47, Celular: Celular da pessoa 47, Email: Email da pessoa 47
+Estrutura de dados apos comando -> Fila: Quantidade -> 47
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 48, Celular: Celular da pessoa 48, Email: Email da pessoa 48
+Estrutura de dados antes do comando -> Fila: Quantidade -> 47
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 48, Celular: Celular da pessoa 48, Email: Email da pessoa 48
+Estrutura de dados apos comando -> Fila: Quantidade -> 48
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 49, Celular: Celular da pessoa 49, Email: Email da pessoa 49
+Estrutura de dados antes do comando -> Fila: Quantidade -> 48
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 49, Celular: Celular da pessoa 49, Email: Email da pessoa 49
+Estrutura de dados apos comando -> Fila: Quantidade -> 49
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 50, Celular: Celular da pessoa 50, Email: Email da pessoa 50
+Estrutura de dados antes do comando -> Fila: Quantidade -> 49
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 50, Celular: Celular da pessoa 50, Email: Email da pessoa 50
+Estrutura de dados apos comando -> Fila: Quantidade -> 50
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 51, Celular: Celular da pessoa 51, Email: Email da pessoa 51
+Estrutura de dados antes do comando -> Fila: Quantidade -> 50
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 51, Celular: Celular da pessoa 51, Email: Email da pessoa 51
+Estrutura de dados apos comando -> Fila: Quantidade -> 51
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 52, Celular: Celular da pessoa 52, Email: Email da pessoa 52
+Estrutura de dados antes do comando -> Fila: Quantidade -> 51
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 52, Celular: Celular da pessoa 52, Email: Email da pessoa 52
+Estrutura de dados apos comando -> Fila: Quantidade -> 52
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 53, Celular: Celular da pessoa 53, Email: Email da pessoa 53
+Estrutura de dados antes do comando -> Fila: Quantidade -> 52
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 53, Celular: Celular da pessoa 53, Email: Email da pessoa 53
+Estrutura de dados apos comando -> Fila: Quantidade -> 53
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 54, Celular: Celular da pessoa 54, Email: Email da pessoa 54
+Estrutura de dados antes do comando -> Fila: Quantidade -> 53
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 54, Celular: Celular da pessoa 54, Email: Email da pessoa 54
+Estrutura de dados apos comando -> Fila: Quantidade -> 54
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 55, Celular: Celular da pessoa 55, Email: Email da pessoa 55
+Estrutura de dados antes do comando -> Fila: Quantidade -> 54
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 55, Celular: Celular da pessoa 55, Email: Email da pessoa 55
+Estrutura de dados apos comando -> Fila: Quantidade -> 55
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 56, Celular: Celular da pessoa 56, Email: Email da pessoa 56
+Estrutura de dados antes do comando -> Fila: Quantidade -> 55
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 56, Celular: Celular da pessoa 56, Email: Email da pessoa 56
+Estrutura de dados apos comando -> Fila: Quantidade -> 56
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 57, Celular: Celular da pessoa 57, Email: Email da pessoa 57
+Estrutura de dados antes do comando -> Fila: Quantidade -> 56
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 57, Celular: Celular da pessoa 57, Email: Email da pessoa 57
+Estrutura de dados apos comando -> Fila: Quantidade -> 57
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 58, Celular: Celular da pessoa 58, Email: Email da pessoa 58
+Estrutura de dados antes do comando -> Fila: Quantidade -> 57
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 58, Celular: Celular da pessoa 58, Email: Email da pessoa 58
+Estrutura de dados apos comando -> Fila: Quantidade -> 58
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 59, Celular: Celular da pessoa 59, Email: Email da pessoa 59
+Estrutura de dados antes do comando -> Fila: Quantidade -> 58
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 59, Celular: Celular da pessoa 59, Email: Email da pessoa 59
+Estrutura de dados apos comando -> Fila: Quantidade -> 59
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 60, Celular: Celular da pessoa 60, Email: Email da pessoa 60
+Estrutura de dados antes do comando -> Fila: Quantidade -> 59
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 60, Celular: Celular da pessoa 60, Email: Email da pessoa 60
+Estrutura de dados apos comando -> Fila: Quantidade -> 60
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 61, Celular: Celular da pessoa 61, Email: Email da pessoa 61
+Estrutura de dados antes do comando -> Fila: Quantidade -> 60
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 61, Celular: Celular da pessoa 61, Email: Email da pessoa 61
+Estrutura de dados apos comando -> Fila: Quantidade -> 61
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 62, Celular: Celular da pessoa 62, Email: Email da pessoa 62
+Estrutura de dados antes do comando -> Fila: Quantidade -> 61
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 62, Celular: Celular da pessoa 62, Email: Email da pessoa 62
+Estrutura de dados apos comando -> Fila: Quantidade -> 62
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 63, Celular: Celular da pessoa 63, Email: Email da pessoa 63
+Estrutura de dados antes do comando -> Fila: Quantidade -> 62
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 63, Celular: Celular da pessoa 63, Email: Email da pessoa 63
+Estrutura de dados apos comando -> Fila: Quantidade -> 63
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 64, Celular: Celular da pessoa 64, Email: Email da pessoa 64
+Estrutura de dados antes do comando -> Fila: Quantidade -> 63
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 64, Celular: Celular da pessoa 64, Email: Email da pessoa 64
+Estrutura de dados apos comando -> Fila: Quantidade -> 64
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 65, Celular: Celular da pessoa 65, Email: Email da pessoa 65
+Estrutura de dados antes do comando -> Fila: Quantidade -> 64
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 65, Celular: Celular da pessoa 65, Email: Email da pessoa 65
+Estrutura de dados apos comando -> Fila: Quantidade -> 65
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 66, Celular: Celular da pessoa 66, Email: Email da pessoa 66
+Estrutura de dados antes do comando -> Fila: Quantidade -> 65
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 66, Celular: Celular da pessoa 66, Email: Email da pessoa 66
+Estrutura de dados apos comando -> Fila: Quantidade -> 66
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 67, Celular: Celular da pessoa 67, Email: Email da pessoa 67
+Estrutura de dados antes do comando -> Fila: Quantidade -> 66
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 67, Celular: Celular da pessoa 67, Email: Email da pessoa 67
+Estrutura de dados apos comando -> Fila: Quantidade -> 67
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 68, Celular: Celular da pessoa 68, Email: Email da pessoa 68
+Estrutura de dados antes do comando -> Fila: Quantidade -> 67
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 68, Celular: Celular da pessoa 68, Email: Email da pessoa 68
+Estrutura de dados apos comando -> Fila: Quantidade -> 68
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 69, Celular: Celular da pessoa 69, Email: Email da pessoa 69
+Estrutura de dados antes do comando -> Fila: Quantidade -> 68
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 69, Celular: Celular da pessoa 69, Email: Email da pessoa 69
+Estrutura de dados apos comando -> Fila: Quantidade -> 69
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 70, Celular: Celular da pessoa 70, Email: Email da pessoa 70
+Estrutura de dados antes do comando -> Fila: Quantidade -> 69
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 70, Celular: Celular da pessoa 70, Email: Email da pessoa 70
+Estrutura de dados apos comando -> Fila: Quantidade -> 70
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 71, Celular: Celular da pessoa 71, Email: Email da pessoa 71
+Estrutura de dados antes do comando -> Fila: Quantidade -> 70
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 71, Celular: Celular da pessoa 71, Email: Email da pessoa 71
+Estrutura de dados apos comando -> Fila: Quantidade -> 71
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 72, Celular: Celular da pessoa 72, Email: Email da pessoa 72
+Estrutura de dados antes do comando -> Fila: Quantidade -> 71
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 72, Celular: Celular da pessoa 72, Email: Email da pessoa 72
+Estrutura de dados apos comando -> Fila: Quantidade -> 72
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 73, Celular: Celular da pessoa 73, Email: Email da pessoa 73
+Estrutura de dados antes do comando -> Fila: Quantidade -> 72
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 73, Celular: Celular da pessoa 73, Email: Email da pessoa 73
+Estrutura de dados apos comando -> Fila: Quantidade -> 73
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 74, Celular: Celular da pessoa 74, Email: Email da pessoa 74
+Estrutura de dados antes do comando -> Fila: Quantidade -> 73
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 74, Celular: Celular da pessoa 74, Email: Email da pessoa 74
+Estrutura de dados apos comando -> Fila: Quantidade -> 74
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 75, Celular: Celular da pessoa 75, Email: Email da pessoa 75
+Estrutura de dados antes do comando -> Fila: Quantidade -> 74
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 75, Celular: Celular da pessoa 75, Email: Email da pessoa 75
+Estrutura de dados apos comando -> Fila: Quantidade -> 75
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 76, Celular: Celular da pessoa 76, Email: Email da pessoa 76
+Estrutura de dados antes do comando -> Fila: Quantidade -> 75
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 76, Celular: Celular da pessoa 76, Email: Email da pessoa 76
+Estrutura de dados apos comando -> Fila: Quantidade -> 76
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 77, Celular: Celular da pessoa 77, Email: Email da pessoa 77
+Estrutura de dados antes do comando -> Fila: Quantidade -> 76
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 77, Celular: Celular da pessoa 77, Email: Email da pessoa 77
+Estrutura de dados apos comando -> Fila: Quantidade -> 77
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 78, Celular: Celular da pessoa 78, Email: Email da pessoa 78
+Estrutura de dados antes do comando -> Fila: Quantidade -> 77
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 78, Celular: Celular da pessoa 78, Email: Email da pessoa 78
+Estrutura de dados apos comando -> Fila: Quantidade -> 78
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 79, Celular: Celular da pessoa 79, Email: Email da pessoa 79
+Estrutura de dados antes do comando -> Fila: Quantidade -> 78
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 79, Celular: Celular da pessoa 79, Email: Email da pessoa 79
+Estrutura de dados apos comando -> Fila: Quantidade -> 79
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 80, Celular: Celular da pessoa 80, Email: Email da pessoa 80
+Estrutura de dados antes do comando -> Fila: Quantidade -> 79
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 80, Celular: Celular da pessoa 80, Email: Email da pessoa 80
+Estrutura de dados apos comando -> Fila: Quantidade -> 80
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 81, Celular: Celular da pessoa 81, Email: Email da pessoa 81
+Estrutura de dados antes do comando -> Fila: Quantidade -> 80
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 81, Celular: Celular da pessoa 81, Email: Email da pessoa 81
+Estrutura de dados apos comando -> Fila: Quantidade -> 81
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 82, Celular: Celular da pessoa 82, Email: Email da pessoa 82
+Estrutura de dados antes do comando -> Fila: Quantidade -> 81
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 82, Celular: Celular da pessoa 82, Email: Email da pessoa 82
+Estrutura de dados apos comando -> Fila: Quantidade -> 82
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 83, Celular: Celular da pessoa 83, Email: Email da pessoa 83
+Estrutura de dados antes do comando -> Fila: Quantidade -> 82
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 83, Celular: Celular da pessoa 83, Email: Email da pessoa 83
+Estrutura de dados apos comando -> Fila: Quantidade -> 83
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 84, Celular: Celular da pessoa 84, Email: Email da pessoa 84
+Estrutura de dados antes do comando -> Fila: Quantidade -> 83
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 84, Celular: Celular da pessoa 84, Email: Email da pessoa 84
+Estrutura de dados apos comando -> Fila: Quantidade -> 84
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 85, Celular: Celular da pessoa 85, Email: Email da pessoa 85
+Estrutura de dados antes do comando -> Fila: Quantidade -> 84
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 85, Celular: Celular da pessoa 85, Email: Email da pessoa 85
+Estrutura de dados apos comando -> Fila: Quantidade -> 85
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 86, Celular: Celular da pessoa 86, Email: Email da pessoa 86
+Estrutura de dados antes do comando -> Fila: Quantidade -> 85
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 86, Celular: Celular da pessoa 86, Email: Email da pessoa 86
+Estrutura de dados apos comando -> Fila: Quantidade -> 86
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 87, Celular: Celular da pessoa 87, Email: Email da pessoa 87
+Estrutura de dados antes do comando -> Fila: Quantidade -> 86
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 87, Celular: Celular da pessoa 87, Email: Email da pessoa 87
+Estrutura de dados apos comando -> Fila: Quantidade -> 87
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 88, Celular: Celular da pessoa 88, Email: Email da pessoa 88
+Estrutura de dados antes do comando -> Fila: Quantidade -> 87
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 88, Celular: Celular da pessoa 88, Email: Email da pessoa 88
+Estrutura de dados apos comando -> Fila: Quantidade -> 88
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 89, Celular: Celular da pessoa 89, Email: Email da pessoa 89
+Estrutura de dados antes do comando -> Fila: Quantidade -> 88
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 89, Celular: Celular da pessoa 89, Email: Email da pessoa 89
+Estrutura de dados apos comando -> Fila: Quantidade -> 89
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 90, Celular: Celular da pessoa 90, Email: Email da pessoa 90
+Estrutura de dados antes do comando -> Fila: Quantidade -> 89
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 90, Celular: Celular da pessoa 90, Email: Email da pessoa 90
+Estrutura de dados apos comando -> Fila: Quantidade -> 90
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 91, Celular: Celular da pessoa 91, Email: Email da pessoa 91
+Estrutura de dados antes do comando -> Fila: Quantidade -> 90
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 91, Celular: Celular da pessoa 91, Email: Email da pessoa 91
+Estrutura de dados apos comando -> Fila: Quantidade -> 91
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 92, Celular: Celular da pessoa 92, Email: Email da pessoa 92
+Estrutura de dados antes do comando -> Fila: Quantidade -> 91
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 92, Celular: Celular da pessoa 92, Email: Email da pessoa 92
+Estrutura de dados apos comando -> Fila: Quantidade -> 92
+
+Comando: Adicionar o item no final da fila: Pessoa: Nome: Pessoa 93, Celular: Celular da pessoa 93, Email: Email da pessoa 93
+Estrutura de dados antes do comando -> Fila: Quantidade -> 92
+Sucesso: Item adicionado: Pessoa: Nome: Pessoa 93, Celular: Celular da pessoa 93, Email: Email da pessoa 93
+Estrutura de dados apos comando -> Fila: Quantidade -> 93
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 0
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 1
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 1
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 2
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 2
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 3
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 3
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 4
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 4
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 5
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 5
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 6
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 6
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 7
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 7
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 8
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 8
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 9
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 9
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 10
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 10
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 11
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 11
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 12
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 12
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 13
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 13
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 14
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 14
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 15
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 15
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 16
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 16
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 17
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 17
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 18
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 18
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 19
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 19
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 20
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 20
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 21
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 21
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 22
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 22
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 23
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 23
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 24
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 24
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 25
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 25
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 26
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 26
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 27
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 27
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 28
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 28
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 29
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 29
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 30
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 30
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 31
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 31
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 32
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 32
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 33
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 33
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 34
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 34
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 35
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 35
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 36
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 36
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 37
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 37
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 38
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 38
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 39
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 39
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 40
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 40
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 41
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 41
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 42
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 42
+Sucesso: Item adicionado: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 43
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 43
+Sucesso: Item adicionado: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 44
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 44
+Sucesso: Item adicionado: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 45
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 45
+Sucesso: Item adicionado: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 46
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 46
+Sucesso: Item adicionado: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 47
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 47
+Sucesso: Item adicionado: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 48
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 48
+Sucesso: Item adicionado: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 49
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 49
+Sucesso: Item adicionado: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 50
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 50
+Sucesso: Item adicionado: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 51
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 51
+Sucesso: Item adicionado: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 52
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 52
+Sucesso: Item adicionado: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 53
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 53
+Sucesso: Item adicionado: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 54
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 54
+Sucesso: Item adicionado: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados apos comando -> Pilha: Quantidade -> 55
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 55
+Sucesso: Item adicionado: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados apos comando -> Pilha: Quantidade -> 56
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 56
+Sucesso: Item adicionado: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados apos comando -> Pilha: Quantidade -> 57
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 57
+Sucesso: Item adicionado: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados apos comando -> Pilha: Quantidade -> 58
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 58
+Sucesso: Item adicionado: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados apos comando -> Pilha: Quantidade -> 59
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 59
+Sucesso: Item adicionado: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados apos comando -> Pilha: Quantidade -> 60
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 60
+Sucesso: Item adicionado: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados apos comando -> Pilha: Quantidade -> 61
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 61
+Sucesso: Item adicionado: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados apos comando -> Pilha: Quantidade -> 62
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 62
+Sucesso: Item adicionado: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados apos comando -> Pilha: Quantidade -> 63
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 63
+Sucesso: Item adicionado: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados apos comando -> Pilha: Quantidade -> 64
+
+Comando: Adicionar o item no topo da pilha: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 64
+Sucesso: Item adicionado: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados apos comando -> Pilha: Quantidade -> 65
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 65
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados apos comando -> Pilha: Quantidade -> 64
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 93
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 1, Celular: Celular da pessoa 1, Email: Email da pessoa 1
+Estrutura de dados apos comando -> Fila: Quantidade -> 92
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 1, Celular: Celular da pessoa 1, Email: Email da pessoa 1
+Estrutura de dados antes do comando -> Lista: Quantidade -> 0
+Sucesso: Item adicionado: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 1, Celular: Celular da pessoa 1, Email: Email da pessoa 1
+Estrutura de dados apos comando -> Lista: Quantidade -> 1
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 64
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados apos comando -> Pilha: Quantidade -> 63
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 92
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 2, Celular: Celular da pessoa 2, Email: Email da pessoa 2
+Estrutura de dados apos comando -> Fila: Quantidade -> 91
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 2, Celular: Celular da pessoa 2, Email: Email da pessoa 2
+Estrutura de dados antes do comando -> Lista: Quantidade -> 1
+Sucesso: Item adicionado: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 2, Celular: Celular da pessoa 2, Email: Email da pessoa 2
+Estrutura de dados apos comando -> Lista: Quantidade -> 2
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 63
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados apos comando -> Pilha: Quantidade -> 62
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 91
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 3, Celular: Celular da pessoa 3, Email: Email da pessoa 3
+Estrutura de dados apos comando -> Fila: Quantidade -> 90
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 3, Celular: Celular da pessoa 3, Email: Email da pessoa 3
+Estrutura de dados antes do comando -> Lista: Quantidade -> 2
+Sucesso: Item adicionado: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 3, Celular: Celular da pessoa 3, Email: Email da pessoa 3
+Estrutura de dados apos comando -> Lista: Quantidade -> 3
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 62
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados apos comando -> Pilha: Quantidade -> 61
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 90
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 4, Celular: Celular da pessoa 4, Email: Email da pessoa 4
+Estrutura de dados apos comando -> Fila: Quantidade -> 89
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 4, Celular: Celular da pessoa 4, Email: Email da pessoa 4
+Estrutura de dados antes do comando -> Lista: Quantidade -> 3
+Sucesso: Item adicionado: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 4, Celular: Celular da pessoa 4, Email: Email da pessoa 4
+Estrutura de dados apos comando -> Lista: Quantidade -> 4
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 61
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados apos comando -> Pilha: Quantidade -> 60
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 89
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 5, Celular: Celular da pessoa 5, Email: Email da pessoa 5
+Estrutura de dados apos comando -> Fila: Quantidade -> 88
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 5, Celular: Celular da pessoa 5, Email: Email da pessoa 5
+Estrutura de dados antes do comando -> Lista: Quantidade -> 4
+Sucesso: Item adicionado: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 5, Celular: Celular da pessoa 5, Email: Email da pessoa 5
+Estrutura de dados apos comando -> Lista: Quantidade -> 5
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 60
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados apos comando -> Pilha: Quantidade -> 59
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 88
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 6, Celular: Celular da pessoa 6, Email: Email da pessoa 6
+Estrutura de dados apos comando -> Fila: Quantidade -> 87
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 6, Celular: Celular da pessoa 6, Email: Email da pessoa 6
+Estrutura de dados antes do comando -> Lista: Quantidade -> 5
+Sucesso: Item adicionado: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 6, Celular: Celular da pessoa 6, Email: Email da pessoa 6
+Estrutura de dados apos comando -> Lista: Quantidade -> 6
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 59
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados apos comando -> Pilha: Quantidade -> 58
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 87
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 7, Celular: Celular da pessoa 7, Email: Email da pessoa 7
+Estrutura de dados apos comando -> Fila: Quantidade -> 86
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 7, Celular: Celular da pessoa 7, Email: Email da pessoa 7
+Estrutura de dados antes do comando -> Lista: Quantidade -> 6
+Sucesso: Item adicionado: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 7, Celular: Celular da pessoa 7, Email: Email da pessoa 7
+Estrutura de dados apos comando -> Lista: Quantidade -> 7
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 58
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados apos comando -> Pilha: Quantidade -> 57
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 86
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 8, Celular: Celular da pessoa 8, Email: Email da pessoa 8
+Estrutura de dados apos comando -> Fila: Quantidade -> 85
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 8, Celular: Celular da pessoa 8, Email: Email da pessoa 8
+Estrutura de dados antes do comando -> Lista: Quantidade -> 7
+Sucesso: Item adicionado: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 8, Celular: Celular da pessoa 8, Email: Email da pessoa 8
+Estrutura de dados apos comando -> Lista: Quantidade -> 8
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 57
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados apos comando -> Pilha: Quantidade -> 56
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 85
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 9, Celular: Celular da pessoa 9, Email: Email da pessoa 9
+Estrutura de dados apos comando -> Fila: Quantidade -> 84
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 9, Celular: Celular da pessoa 9, Email: Email da pessoa 9
+Estrutura de dados antes do comando -> Lista: Quantidade -> 8
+Sucesso: Item adicionado: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 9, Celular: Celular da pessoa 9, Email: Email da pessoa 9
+Estrutura de dados apos comando -> Lista: Quantidade -> 9
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 56
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados apos comando -> Pilha: Quantidade -> 55
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 84
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 10, Celular: Celular da pessoa 10, Email: Email da pessoa 10
+Estrutura de dados apos comando -> Fila: Quantidade -> 83
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 10, Celular: Celular da pessoa 10, Email: Email da pessoa 10
+Estrutura de dados antes do comando -> Lista: Quantidade -> 9
+Sucesso: Item adicionado: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 10, Celular: Celular da pessoa 10, Email: Email da pessoa 10
+Estrutura de dados apos comando -> Lista: Quantidade -> 10
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 55
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5
+Estrutura de dados apos comando -> Pilha: Quantidade -> 54
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 83
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 11, Celular: Celular da pessoa 11, Email: Email da pessoa 11
+Estrutura de dados apos comando -> Fila: Quantidade -> 82
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 11, Celular: Celular da pessoa 11, Email: Email da pessoa 11
+Estrutura de dados antes do comando -> Lista: Quantidade -> 10
+Sucesso: Item adicionado: Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 11, Celular: Celular da pessoa 11, Email: Email da pessoa 11
+Estrutura de dados apos comando -> Lista: Quantidade -> 11
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 54
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 53
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 82
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 12, Celular: Celular da pessoa 12, Email: Email da pessoa 12
+Estrutura de dados apos comando -> Fila: Quantidade -> 81
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 12, Celular: Celular da pessoa 12, Email: Email da pessoa 12
+Estrutura de dados antes do comando -> Lista: Quantidade -> 11
+Sucesso: Item adicionado: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 12, Celular: Celular da pessoa 12, Email: Email da pessoa 12
+Estrutura de dados apos comando -> Lista: Quantidade -> 12
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 53
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 52
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 81
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 13, Celular: Celular da pessoa 13, Email: Email da pessoa 13
+Estrutura de dados apos comando -> Fila: Quantidade -> 80
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 13, Celular: Celular da pessoa 13, Email: Email da pessoa 13
+Estrutura de dados antes do comando -> Lista: Quantidade -> 12
+Sucesso: Item adicionado: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 13, Celular: Celular da pessoa 13, Email: Email da pessoa 13
+Estrutura de dados apos comando -> Lista: Quantidade -> 13
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 52
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 51
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 80
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 14, Celular: Celular da pessoa 14, Email: Email da pessoa 14
+Estrutura de dados apos comando -> Fila: Quantidade -> 79
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 14, Celular: Celular da pessoa 14, Email: Email da pessoa 14
+Estrutura de dados antes do comando -> Lista: Quantidade -> 13
+Sucesso: Item adicionado: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 14, Celular: Celular da pessoa 14, Email: Email da pessoa 14
+Estrutura de dados apos comando -> Lista: Quantidade -> 14
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 51
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 50
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 79
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 15, Celular: Celular da pessoa 15, Email: Email da pessoa 15
+Estrutura de dados apos comando -> Fila: Quantidade -> 78
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 15, Celular: Celular da pessoa 15, Email: Email da pessoa 15
+Estrutura de dados antes do comando -> Lista: Quantidade -> 14
+Sucesso: Item adicionado: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 15, Celular: Celular da pessoa 15, Email: Email da pessoa 15
+Estrutura de dados apos comando -> Lista: Quantidade -> 15
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 50
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 49
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 78
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 16, Celular: Celular da pessoa 16, Email: Email da pessoa 16
+Estrutura de dados apos comando -> Fila: Quantidade -> 77
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 16, Celular: Celular da pessoa 16, Email: Email da pessoa 16
+Estrutura de dados antes do comando -> Lista: Quantidade -> 15
+Sucesso: Item adicionado: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 16, Celular: Celular da pessoa 16, Email: Email da pessoa 16
+Estrutura de dados apos comando -> Lista: Quantidade -> 16
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 49
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 48
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 77
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 17, Celular: Celular da pessoa 17, Email: Email da pessoa 17
+Estrutura de dados apos comando -> Fila: Quantidade -> 76
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 17, Celular: Celular da pessoa 17, Email: Email da pessoa 17
+Estrutura de dados antes do comando -> Lista: Quantidade -> 16
+Sucesso: Item adicionado: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 17, Celular: Celular da pessoa 17, Email: Email da pessoa 17
+Estrutura de dados apos comando -> Lista: Quantidade -> 17
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 48
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 47
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 76
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 18, Celular: Celular da pessoa 18, Email: Email da pessoa 18
+Estrutura de dados apos comando -> Fila: Quantidade -> 75
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 18, Celular: Celular da pessoa 18, Email: Email da pessoa 18
+Estrutura de dados antes do comando -> Lista: Quantidade -> 17
+Sucesso: Item adicionado: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 18, Celular: Celular da pessoa 18, Email: Email da pessoa 18
+Estrutura de dados apos comando -> Lista: Quantidade -> 18
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 47
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 46
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 75
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 19, Celular: Celular da pessoa 19, Email: Email da pessoa 19
+Estrutura de dados apos comando -> Fila: Quantidade -> 74
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 19, Celular: Celular da pessoa 19, Email: Email da pessoa 19
+Estrutura de dados antes do comando -> Lista: Quantidade -> 18
+Sucesso: Item adicionado: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 19, Celular: Celular da pessoa 19, Email: Email da pessoa 19
+Estrutura de dados apos comando -> Lista: Quantidade -> 19
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 46
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 45
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 74
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 20, Celular: Celular da pessoa 20, Email: Email da pessoa 20
+Estrutura de dados apos comando -> Fila: Quantidade -> 73
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 20, Celular: Celular da pessoa 20, Email: Email da pessoa 20
+Estrutura de dados antes do comando -> Lista: Quantidade -> 19
+Sucesso: Item adicionado: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 20, Celular: Celular da pessoa 20, Email: Email da pessoa 20
+Estrutura de dados apos comando -> Lista: Quantidade -> 20
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 45
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 44
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 73
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 21, Celular: Celular da pessoa 21, Email: Email da pessoa 21
+Estrutura de dados apos comando -> Fila: Quantidade -> 72
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 21, Celular: Celular da pessoa 21, Email: Email da pessoa 21
+Estrutura de dados antes do comando -> Lista: Quantidade -> 20
+Sucesso: Item adicionado: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 21, Celular: Celular da pessoa 21, Email: Email da pessoa 21
+Estrutura de dados apos comando -> Lista: Quantidade -> 21
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 44
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 43
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 72
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 22, Celular: Celular da pessoa 22, Email: Email da pessoa 22
+Estrutura de dados apos comando -> Fila: Quantidade -> 71
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 22, Celular: Celular da pessoa 22, Email: Email da pessoa 22
+Estrutura de dados antes do comando -> Lista: Quantidade -> 21
+Sucesso: Item adicionado: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 22, Celular: Celular da pessoa 22, Email: Email da pessoa 22
+Estrutura de dados apos comando -> Lista: Quantidade -> 22
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 43
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 42
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 71
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 23, Celular: Celular da pessoa 23, Email: Email da pessoa 23
+Estrutura de dados apos comando -> Fila: Quantidade -> 70
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 23, Celular: Celular da pessoa 23, Email: Email da pessoa 23
+Estrutura de dados antes do comando -> Lista: Quantidade -> 22
+Sucesso: Item adicionado: Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 23, Celular: Celular da pessoa 23, Email: Email da pessoa 23
+Estrutura de dados apos comando -> Lista: Quantidade -> 23
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 42
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 41
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 70
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 24, Celular: Celular da pessoa 24, Email: Email da pessoa 24
+Estrutura de dados apos comando -> Fila: Quantidade -> 69
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 24, Celular: Celular da pessoa 24, Email: Email da pessoa 24
+Estrutura de dados antes do comando -> Lista: Quantidade -> 23
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 24, Celular: Celular da pessoa 24, Email: Email da pessoa 24
+Estrutura de dados apos comando -> Lista: Quantidade -> 24
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 41
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 40
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 69
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 25, Celular: Celular da pessoa 25, Email: Email da pessoa 25
+Estrutura de dados apos comando -> Fila: Quantidade -> 68
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 25, Celular: Celular da pessoa 25, Email: Email da pessoa 25
+Estrutura de dados antes do comando -> Lista: Quantidade -> 24
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 25, Celular: Celular da pessoa 25, Email: Email da pessoa 25
+Estrutura de dados apos comando -> Lista: Quantidade -> 25
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 40
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 39
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 68
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 26, Celular: Celular da pessoa 26, Email: Email da pessoa 26
+Estrutura de dados apos comando -> Fila: Quantidade -> 67
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 26, Celular: Celular da pessoa 26, Email: Email da pessoa 26
+Estrutura de dados antes do comando -> Lista: Quantidade -> 25
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 26, Celular: Celular da pessoa 26, Email: Email da pessoa 26
+Estrutura de dados apos comando -> Lista: Quantidade -> 26
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 39
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 38
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 67
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 27, Celular: Celular da pessoa 27, Email: Email da pessoa 27
+Estrutura de dados apos comando -> Fila: Quantidade -> 66
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 27, Celular: Celular da pessoa 27, Email: Email da pessoa 27
+Estrutura de dados antes do comando -> Lista: Quantidade -> 26
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 27, Celular: Celular da pessoa 27, Email: Email da pessoa 27
+Estrutura de dados apos comando -> Lista: Quantidade -> 27
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 38
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 37
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 66
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 28, Celular: Celular da pessoa 28, Email: Email da pessoa 28
+Estrutura de dados apos comando -> Fila: Quantidade -> 65
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 28, Celular: Celular da pessoa 28, Email: Email da pessoa 28
+Estrutura de dados antes do comando -> Lista: Quantidade -> 27
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 28, Celular: Celular da pessoa 28, Email: Email da pessoa 28
+Estrutura de dados apos comando -> Lista: Quantidade -> 28
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 37
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 36
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 65
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 29, Celular: Celular da pessoa 29, Email: Email da pessoa 29
+Estrutura de dados apos comando -> Fila: Quantidade -> 64
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 29, Celular: Celular da pessoa 29, Email: Email da pessoa 29
+Estrutura de dados antes do comando -> Lista: Quantidade -> 28
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 29, Celular: Celular da pessoa 29, Email: Email da pessoa 29
+Estrutura de dados apos comando -> Lista: Quantidade -> 29
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 36
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 35
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 64
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 30, Celular: Celular da pessoa 30, Email: Email da pessoa 30
+Estrutura de dados apos comando -> Fila: Quantidade -> 63
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 30, Celular: Celular da pessoa 30, Email: Email da pessoa 30
+Estrutura de dados antes do comando -> Lista: Quantidade -> 29
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 30, Celular: Celular da pessoa 30, Email: Email da pessoa 30
+Estrutura de dados apos comando -> Lista: Quantidade -> 30
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 35
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 34
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 63
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 31, Celular: Celular da pessoa 31, Email: Email da pessoa 31
+Estrutura de dados apos comando -> Fila: Quantidade -> 62
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 31, Celular: Celular da pessoa 31, Email: Email da pessoa 31
+Estrutura de dados antes do comando -> Lista: Quantidade -> 30
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 31, Celular: Celular da pessoa 31, Email: Email da pessoa 31
+Estrutura de dados apos comando -> Lista: Quantidade -> 31
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 34
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 33
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 62
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 32, Celular: Celular da pessoa 32, Email: Email da pessoa 32
+Estrutura de dados apos comando -> Fila: Quantidade -> 61
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 32, Celular: Celular da pessoa 32, Email: Email da pessoa 32
+Estrutura de dados antes do comando -> Lista: Quantidade -> 31
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 32, Celular: Celular da pessoa 32, Email: Email da pessoa 32
+Estrutura de dados apos comando -> Lista: Quantidade -> 32
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 33
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 32
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 61
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 33, Celular: Celular da pessoa 33, Email: Email da pessoa 33
+Estrutura de dados apos comando -> Fila: Quantidade -> 60
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 33, Celular: Celular da pessoa 33, Email: Email da pessoa 33
+Estrutura de dados antes do comando -> Lista: Quantidade -> 32
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 33, Celular: Celular da pessoa 33, Email: Email da pessoa 33
+Estrutura de dados apos comando -> Lista: Quantidade -> 33
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 32
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 31
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 60
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 34, Celular: Celular da pessoa 34, Email: Email da pessoa 34
+Estrutura de dados apos comando -> Fila: Quantidade -> 59
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 34, Celular: Celular da pessoa 34, Email: Email da pessoa 34
+Estrutura de dados antes do comando -> Lista: Quantidade -> 33
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 34, Celular: Celular da pessoa 34, Email: Email da pessoa 34
+Estrutura de dados apos comando -> Lista: Quantidade -> 34
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 31
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 30
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 59
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 35, Celular: Celular da pessoa 35, Email: Email da pessoa 35
+Estrutura de dados apos comando -> Fila: Quantidade -> 58
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 35, Celular: Celular da pessoa 35, Email: Email da pessoa 35
+Estrutura de dados antes do comando -> Lista: Quantidade -> 34
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 35, Celular: Celular da pessoa 35, Email: Email da pessoa 35
+Estrutura de dados apos comando -> Lista: Quantidade -> 35
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 30
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 29
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 58
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 36, Celular: Celular da pessoa 36, Email: Email da pessoa 36
+Estrutura de dados apos comando -> Fila: Quantidade -> 57
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 36, Celular: Celular da pessoa 36, Email: Email da pessoa 36
+Estrutura de dados antes do comando -> Lista: Quantidade -> 35
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 36, Celular: Celular da pessoa 36, Email: Email da pessoa 36
+Estrutura de dados apos comando -> Lista: Quantidade -> 36
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 29
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 28
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 57
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 37, Celular: Celular da pessoa 37, Email: Email da pessoa 37
+Estrutura de dados apos comando -> Fila: Quantidade -> 56
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 37, Celular: Celular da pessoa 37, Email: Email da pessoa 37
+Estrutura de dados antes do comando -> Lista: Quantidade -> 36
+Sucesso: Item adicionado: Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 37, Celular: Celular da pessoa 37, Email: Email da pessoa 37
+Estrutura de dados apos comando -> Lista: Quantidade -> 37
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 28
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 27
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 56
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 38, Celular: Celular da pessoa 38, Email: Email da pessoa 38
+Estrutura de dados apos comando -> Fila: Quantidade -> 55
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 38, Celular: Celular da pessoa 38, Email: Email da pessoa 38
+Estrutura de dados antes do comando -> Lista: Quantidade -> 37
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 38, Celular: Celular da pessoa 38, Email: Email da pessoa 38
+Estrutura de dados apos comando -> Lista: Quantidade -> 38
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 27
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 26
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 55
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 39, Celular: Celular da pessoa 39, Email: Email da pessoa 39
+Estrutura de dados apos comando -> Fila: Quantidade -> 54
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 39, Celular: Celular da pessoa 39, Email: Email da pessoa 39
+Estrutura de dados antes do comando -> Lista: Quantidade -> 38
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 39, Celular: Celular da pessoa 39, Email: Email da pessoa 39
+Estrutura de dados apos comando -> Lista: Quantidade -> 39
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 26
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 25
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 54
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 40, Celular: Celular da pessoa 40, Email: Email da pessoa 40
+Estrutura de dados apos comando -> Fila: Quantidade -> 53
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 40, Celular: Celular da pessoa 40, Email: Email da pessoa 40
+Estrutura de dados antes do comando -> Lista: Quantidade -> 39
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 40, Celular: Celular da pessoa 40, Email: Email da pessoa 40
+Estrutura de dados apos comando -> Lista: Quantidade -> 40
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 25
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 24
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 53
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 41, Celular: Celular da pessoa 41, Email: Email da pessoa 41
+Estrutura de dados apos comando -> Fila: Quantidade -> 52
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 41, Celular: Celular da pessoa 41, Email: Email da pessoa 41
+Estrutura de dados antes do comando -> Lista: Quantidade -> 40
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 41, Celular: Celular da pessoa 41, Email: Email da pessoa 41
+Estrutura de dados apos comando -> Lista: Quantidade -> 41
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 24
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 23
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 52
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 42, Celular: Celular da pessoa 42, Email: Email da pessoa 42
+Estrutura de dados apos comando -> Fila: Quantidade -> 51
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 42, Celular: Celular da pessoa 42, Email: Email da pessoa 42
+Estrutura de dados antes do comando -> Lista: Quantidade -> 41
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 42, Celular: Celular da pessoa 42, Email: Email da pessoa 42
+Estrutura de dados apos comando -> Lista: Quantidade -> 42
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 23
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 22
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 51
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 43, Celular: Celular da pessoa 43, Email: Email da pessoa 43
+Estrutura de dados apos comando -> Fila: Quantidade -> 50
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 43, Celular: Celular da pessoa 43, Email: Email da pessoa 43
+Estrutura de dados antes do comando -> Lista: Quantidade -> 42
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 43, Celular: Celular da pessoa 43, Email: Email da pessoa 43
+Estrutura de dados apos comando -> Lista: Quantidade -> 43
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 22
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 21
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 50
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 44, Celular: Celular da pessoa 44, Email: Email da pessoa 44
+Estrutura de dados apos comando -> Fila: Quantidade -> 49
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 44, Celular: Celular da pessoa 44, Email: Email da pessoa 44
+Estrutura de dados antes do comando -> Lista: Quantidade -> 43
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 44, Celular: Celular da pessoa 44, Email: Email da pessoa 44
+Estrutura de dados apos comando -> Lista: Quantidade -> 44
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 21
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 20
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 49
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 45, Celular: Celular da pessoa 45, Email: Email da pessoa 45
+Estrutura de dados apos comando -> Fila: Quantidade -> 48
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 45, Celular: Celular da pessoa 45, Email: Email da pessoa 45
+Estrutura de dados antes do comando -> Lista: Quantidade -> 44
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 45, Celular: Celular da pessoa 45, Email: Email da pessoa 45
+Estrutura de dados apos comando -> Lista: Quantidade -> 45
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 20
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 19
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 48
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 46, Celular: Celular da pessoa 46, Email: Email da pessoa 46
+Estrutura de dados apos comando -> Fila: Quantidade -> 47
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 46, Celular: Celular da pessoa 46, Email: Email da pessoa 46
+Estrutura de dados antes do comando -> Lista: Quantidade -> 45
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 46, Celular: Celular da pessoa 46, Email: Email da pessoa 46
+Estrutura de dados apos comando -> Lista: Quantidade -> 46
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 19
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 18
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 47
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 47, Celular: Celular da pessoa 47, Email: Email da pessoa 47
+Estrutura de dados apos comando -> Fila: Quantidade -> 46
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 47, Celular: Celular da pessoa 47, Email: Email da pessoa 47
+Estrutura de dados antes do comando -> Lista: Quantidade -> 46
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 47, Celular: Celular da pessoa 47, Email: Email da pessoa 47
+Estrutura de dados apos comando -> Lista: Quantidade -> 47
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 18
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 17
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 46
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 48, Celular: Celular da pessoa 48, Email: Email da pessoa 48
+Estrutura de dados apos comando -> Fila: Quantidade -> 45
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 48, Celular: Celular da pessoa 48, Email: Email da pessoa 48
+Estrutura de dados antes do comando -> Lista: Quantidade -> 47
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 48, Celular: Celular da pessoa 48, Email: Email da pessoa 48
+Estrutura de dados apos comando -> Lista: Quantidade -> 48
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 17
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 16
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 45
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 49, Celular: Celular da pessoa 49, Email: Email da pessoa 49
+Estrutura de dados apos comando -> Fila: Quantidade -> 44
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 49, Celular: Celular da pessoa 49, Email: Email da pessoa 49
+Estrutura de dados antes do comando -> Lista: Quantidade -> 48
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 49, Celular: Celular da pessoa 49, Email: Email da pessoa 49
+Estrutura de dados apos comando -> Lista: Quantidade -> 49
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 16
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 15
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 44
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 50, Celular: Celular da pessoa 50, Email: Email da pessoa 50
+Estrutura de dados apos comando -> Fila: Quantidade -> 43
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 50, Celular: Celular da pessoa 50, Email: Email da pessoa 50
+Estrutura de dados antes do comando -> Lista: Quantidade -> 49
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 50, Celular: Celular da pessoa 50, Email: Email da pessoa 50
+Estrutura de dados apos comando -> Lista: Quantidade -> 50
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 15
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 14
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 43
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 51, Celular: Celular da pessoa 51, Email: Email da pessoa 51
+Estrutura de dados apos comando -> Fila: Quantidade -> 42
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 51, Celular: Celular da pessoa 51, Email: Email da pessoa 51
+Estrutura de dados antes do comando -> Lista: Quantidade -> 50
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 51, Celular: Celular da pessoa 51, Email: Email da pessoa 51
+Estrutura de dados apos comando -> Lista: Quantidade -> 51
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 14
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 13
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 42
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 52, Celular: Celular da pessoa 52, Email: Email da pessoa 52
+Estrutura de dados apos comando -> Fila: Quantidade -> 41
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 52, Celular: Celular da pessoa 52, Email: Email da pessoa 52
+Estrutura de dados antes do comando -> Lista: Quantidade -> 51
+Sucesso: Item adicionado: Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 52, Celular: Celular da pessoa 52, Email: Email da pessoa 52
+Estrutura de dados apos comando -> Lista: Quantidade -> 52
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 13
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 12
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 41
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 53, Celular: Celular da pessoa 53, Email: Email da pessoa 53
+Estrutura de dados apos comando -> Fila: Quantidade -> 40
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 53, Celular: Celular da pessoa 53, Email: Email da pessoa 53
+Estrutura de dados antes do comando -> Lista: Quantidade -> 52
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 53, Celular: Celular da pessoa 53, Email: Email da pessoa 53
+Estrutura de dados apos comando -> Lista: Quantidade -> 53
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 12
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 11
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 40
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 54, Celular: Celular da pessoa 54, Email: Email da pessoa 54
+Estrutura de dados apos comando -> Fila: Quantidade -> 39
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 54, Celular: Celular da pessoa 54, Email: Email da pessoa 54
+Estrutura de dados antes do comando -> Lista: Quantidade -> 53
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 54, Celular: Celular da pessoa 54, Email: Email da pessoa 54
+Estrutura de dados apos comando -> Lista: Quantidade -> 54
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 11
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 10
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 39
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 55, Celular: Celular da pessoa 55, Email: Email da pessoa 55
+Estrutura de dados apos comando -> Fila: Quantidade -> 38
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 55, Celular: Celular da pessoa 55, Email: Email da pessoa 55
+Estrutura de dados antes do comando -> Lista: Quantidade -> 54
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 55, Celular: Celular da pessoa 55, Email: Email da pessoa 55
+Estrutura de dados apos comando -> Lista: Quantidade -> 55
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 10
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 9
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 38
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 56, Celular: Celular da pessoa 56, Email: Email da pessoa 56
+Estrutura de dados apos comando -> Fila: Quantidade -> 37
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 56, Celular: Celular da pessoa 56, Email: Email da pessoa 56
+Estrutura de dados antes do comando -> Lista: Quantidade -> 55
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 56, Celular: Celular da pessoa 56, Email: Email da pessoa 56
+Estrutura de dados apos comando -> Lista: Quantidade -> 56
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 9
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 8
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 37
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 57, Celular: Celular da pessoa 57, Email: Email da pessoa 57
+Estrutura de dados apos comando -> Fila: Quantidade -> 36
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 57, Celular: Celular da pessoa 57, Email: Email da pessoa 57
+Estrutura de dados antes do comando -> Lista: Quantidade -> 56
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 57, Celular: Celular da pessoa 57, Email: Email da pessoa 57
+Estrutura de dados apos comando -> Lista: Quantidade -> 57
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 8
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 7
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 36
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 58, Celular: Celular da pessoa 58, Email: Email da pessoa 58
+Estrutura de dados apos comando -> Fila: Quantidade -> 35
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 58, Celular: Celular da pessoa 58, Email: Email da pessoa 58
+Estrutura de dados antes do comando -> Lista: Quantidade -> 57
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 58, Celular: Celular da pessoa 58, Email: Email da pessoa 58
+Estrutura de dados apos comando -> Lista: Quantidade -> 58
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 7
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 6
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 35
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 59, Celular: Celular da pessoa 59, Email: Email da pessoa 59
+Estrutura de dados apos comando -> Fila: Quantidade -> 34
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 59, Celular: Celular da pessoa 59, Email: Email da pessoa 59
+Estrutura de dados antes do comando -> Lista: Quantidade -> 58
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 59, Celular: Celular da pessoa 59, Email: Email da pessoa 59
+Estrutura de dados apos comando -> Lista: Quantidade -> 59
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 6
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 5
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 34
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 60, Celular: Celular da pessoa 60, Email: Email da pessoa 60
+Estrutura de dados apos comando -> Fila: Quantidade -> 33
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 60, Celular: Celular da pessoa 60, Email: Email da pessoa 60
+Estrutura de dados antes do comando -> Lista: Quantidade -> 59
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 60, Celular: Celular da pessoa 60, Email: Email da pessoa 60
+Estrutura de dados apos comando -> Lista: Quantidade -> 60
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 5
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 4
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 33
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 61, Celular: Celular da pessoa 61, Email: Email da pessoa 61
+Estrutura de dados apos comando -> Fila: Quantidade -> 32
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 61, Celular: Celular da pessoa 61, Email: Email da pessoa 61
+Estrutura de dados antes do comando -> Lista: Quantidade -> 60
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 61, Celular: Celular da pessoa 61, Email: Email da pessoa 61
+Estrutura de dados apos comando -> Lista: Quantidade -> 61
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 4
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 3
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 32
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 62, Celular: Celular da pessoa 62, Email: Email da pessoa 62
+Estrutura de dados apos comando -> Fila: Quantidade -> 31
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 62, Celular: Celular da pessoa 62, Email: Email da pessoa 62
+Estrutura de dados antes do comando -> Lista: Quantidade -> 61
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 62, Celular: Celular da pessoa 62, Email: Email da pessoa 62
+Estrutura de dados apos comando -> Lista: Quantidade -> 62
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 3
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 2
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 31
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 63, Celular: Celular da pessoa 63, Email: Email da pessoa 63
+Estrutura de dados apos comando -> Fila: Quantidade -> 30
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 63, Celular: Celular da pessoa 63, Email: Email da pessoa 63
+Estrutura de dados antes do comando -> Lista: Quantidade -> 62
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 63, Celular: Celular da pessoa 63, Email: Email da pessoa 63
+Estrutura de dados apos comando -> Lista: Quantidade -> 63
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 2
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 1
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 30
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 64, Celular: Celular da pessoa 64, Email: Email da pessoa 64
+Estrutura de dados apos comando -> Fila: Quantidade -> 29
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 64, Celular: Celular da pessoa 64, Email: Email da pessoa 64
+Estrutura de dados antes do comando -> Lista: Quantidade -> 63
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 64, Celular: Celular da pessoa 64, Email: Email da pessoa 64
+Estrutura de dados apos comando -> Lista: Quantidade -> 64
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 1
+Sucesso: Foi buscado e removido o item no topo da pilha: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 0
+
+Comando: Busca e remove o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 29
+Sucesso: Foi buscado e removido o primeiro item da fila: Pessoa: Nome: Pessoa 65, Celular: Celular da pessoa 65, Email: Email da pessoa 65
+Estrutura de dados apos comando -> Fila: Quantidade -> 28
+
+Comando: Adicionar o item no final da lista: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 65, Celular: Celular da pessoa 65, Email: Email da pessoa 65
+Estrutura de dados antes do comando -> Lista: Quantidade -> 64
+Sucesso: Item adicionado: Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 65, Celular: Celular da pessoa 65, Email: Email da pessoa 65
+Estrutura de dados apos comando -> Lista: Quantidade -> 65
+
+
+
+Ingressos distribuidos:
+	Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 1, Celular: Celular da pessoa 1, Email: Email da pessoa 1
+	Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 2, Celular: Celular da pessoa 2, Email: Email da pessoa 2
+	Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 3, Celular: Celular da pessoa 3, Email: Email da pessoa 3
+	Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 4, Celular: Celular da pessoa 4, Email: Email da pessoa 4
+	Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 5, Celular: Celular da pessoa 5, Email: Email da pessoa 5
+	Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 6, Celular: Celular da pessoa 6, Email: Email da pessoa 6
+	Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 7, Celular: Celular da pessoa 7, Email: Email da pessoa 7
+	Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 8, Celular: Celular da pessoa 8, Email: Email da pessoa 8
+	Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 9, Celular: Celular da pessoa 9, Email: Email da pessoa 9
+	Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 10, Celular: Celular da pessoa 10, Email: Email da pessoa 10
+	Ingresso: Sala: 5, Data: 03-06-2021, Conteudo: Conteudo da sala 5, Dono: Pessoa: Nome: Pessoa 11, Celular: Celular da pessoa 11, Email: Email da pessoa 11
+	Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 12, Celular: Celular da pessoa 12, Email: Email da pessoa 12
+	Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 13, Celular: Celular da pessoa 13, Email: Email da pessoa 13
+	Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 14, Celular: Celular da pessoa 14, Email: Email da pessoa 14
+	Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 15, Celular: Celular da pessoa 15, Email: Email da pessoa 15
+	Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 16, Celular: Celular da pessoa 16, Email: Email da pessoa 16
+	Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 17, Celular: Celular da pessoa 17, Email: Email da pessoa 17
+	Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 18, Celular: Celular da pessoa 18, Email: Email da pessoa 18
+	Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 19, Celular: Celular da pessoa 19, Email: Email da pessoa 19
+	Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 20, Celular: Celular da pessoa 20, Email: Email da pessoa 20
+	Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 21, Celular: Celular da pessoa 21, Email: Email da pessoa 21
+	Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 22, Celular: Celular da pessoa 22, Email: Email da pessoa 22
+	Ingresso: Sala: 4, Data: 03-06-2021, Conteudo: Conteudo da sala 4, Dono: Pessoa: Nome: Pessoa 23, Celular: Celular da pessoa 23, Email: Email da pessoa 23
+	Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 24, Celular: Celular da pessoa 24, Email: Email da pessoa 24
+	Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 25, Celular: Celular da pessoa 25, Email: Email da pessoa 25
+	Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 26, Celular: Celular da pessoa 26, Email: Email da pessoa 26
+	Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 27, Celular: Celular da pessoa 27, Email: Email da pessoa 27
+	Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 28, Celular: Celular da pessoa 28, Email: Email da pessoa 28
+	Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 29, Celular: Celular da pessoa 29, Email: Email da pessoa 29
+	Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 30, Celular: Celular da pessoa 30, Email: Email da pessoa 30
+	Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 31, Celular: Celular da pessoa 31, Email: Email da pessoa 31
+	Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 32, Celular: Celular da pessoa 32, Email: Email da pessoa 32
+	Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 33, Celular: Celular da pessoa 33, Email: Email da pessoa 33
+	Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 34, Celular: Celular da pessoa 34, Email: Email da pessoa 34
+	Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 35, Celular: Celular da pessoa 35, Email: Email da pessoa 35
+	Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 36, Celular: Celular da pessoa 36, Email: Email da pessoa 36
+	Ingresso: Sala: 3, Data: 03-06-2021, Conteudo: Conteudo da sala 3, Dono: Pessoa: Nome: Pessoa 37, Celular: Celular da pessoa 37, Email: Email da pessoa 37
+	Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 38, Celular: Celular da pessoa 38, Email: Email da pessoa 38
+	Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 39, Celular: Celular da pessoa 39, Email: Email da pessoa 39
+	Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 40, Celular: Celular da pessoa 40, Email: Email da pessoa 40
+	Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 41, Celular: Celular da pessoa 41, Email: Email da pessoa 41
+	Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 42, Celular: Celular da pessoa 42, Email: Email da pessoa 42
+	Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 43, Celular: Celular da pessoa 43, Email: Email da pessoa 43
+	Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 44, Celular: Celular da pessoa 44, Email: Email da pessoa 44
+	Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 45, Celular: Celular da pessoa 45, Email: Email da pessoa 45
+	Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 46, Celular: Celular da pessoa 46, Email: Email da pessoa 46
+	Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 47, Celular: Celular da pessoa 47, Email: Email da pessoa 47
+	Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 48, Celular: Celular da pessoa 48, Email: Email da pessoa 48
+	Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 49, Celular: Celular da pessoa 49, Email: Email da pessoa 49
+	Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 50, Celular: Celular da pessoa 50, Email: Email da pessoa 50
+	Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 51, Celular: Celular da pessoa 51, Email: Email da pessoa 51
+	Ingresso: Sala: 2, Data: 03-06-2021, Conteudo: Conteudo da sala 2, Dono: Pessoa: Nome: Pessoa 52, Celular: Celular da pessoa 52, Email: Email da pessoa 52
+	Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 53, Celular: Celular da pessoa 53, Email: Email da pessoa 53
+	Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 54, Celular: Celular da pessoa 54, Email: Email da pessoa 54
+	Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 55, Celular: Celular da pessoa 55, Email: Email da pessoa 55
+	Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 56, Celular: Celular da pessoa 56, Email: Email da pessoa 56
+	Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 57, Celular: Celular da pessoa 57, Email: Email da pessoa 57
+	Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 58, Celular: Celular da pessoa 58, Email: Email da pessoa 58
+	Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 59, Celular: Celular da pessoa 59, Email: Email da pessoa 59
+	Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 60, Celular: Celular da pessoa 60, Email: Email da pessoa 60
+	Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 61, Celular: Celular da pessoa 61, Email: Email da pessoa 61
+	Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 62, Celular: Celular da pessoa 62, Email: Email da pessoa 62
+	Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 63, Celular: Celular da pessoa 63, Email: Email da pessoa 63
+	Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 64, Celular: Celular da pessoa 64, Email: Email da pessoa 64
+	Ingresso: Sala: 1, Data: 03-06-2021, Conteudo: Conteudo da sala 1, Dono: Pessoa: Nome: Pessoa 65, Celular: Celular da pessoa 65, Email: Email da pessoa 65
