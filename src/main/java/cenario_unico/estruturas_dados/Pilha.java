@@ -20,6 +20,10 @@ public class Pilha<T> {
         pilha = array;
     }
 
+    /**
+     * Adiciona o item no topo da pilha, caso nao esteja cheia
+     * @param item
+     */
     public void push(T item) {
         logger.logComando("Adicionar o item no topo da pilha: " + item.toString(), countToString());
         if (isFull()) {
@@ -34,6 +38,10 @@ public class Pilha<T> {
         logger.logSucesso("Item adicionado: " + item.toString(), countToString());
     }
 
+    /**
+     * Busca e remove o item no topo da pilha
+     * @return o item no topo da pilha caso exista, null caso nao exista
+     */
     public T pop() {
         logger.logComando("Buscar e remover o item no topo da pilha", countToString());
         if (isEmpty()) {
@@ -50,6 +58,10 @@ public class Pilha<T> {
         return item;
     }
 
+    /**
+     * Busca o item no topo da pilha
+     * @return o item no topo da pilha caso exista, null caso nao exista
+     */
     public T peek() {
         logger.logComando("Buscar o item no topo da pilha", countToString());
         if (isEmpty()) {
@@ -64,14 +76,30 @@ public class Pilha<T> {
         return item;
     }
 
+    /**
+     * Checa se a pilha esta vazia
+     * @return true se a pilha estiver vazia, false se nao estiver vazia
+     */
     public Boolean isEmpty() {
         return quantidade == 0;
     }
 
+    /**
+     * Checa se a pilha esta cheia
+     * @return true se a pilha estiver cheia, false se nao estiver cheia
+     */
+    public Boolean isFull() {
+        return quantidade == capacidade;
+    }
+
+    /**
+     * Busca a quantidade de itens presentes na pilha
+     * @return a quantidade de itens presentes na pilha
+     */
     public int count(){
         return quantidade;
     }
-
+    
     @Override
     public String toString() {
         if (isEmpty()) {
@@ -85,10 +113,6 @@ public class Pilha<T> {
         }
 
         return str;
-    }
-
-    private Boolean isFull() {
-        return quantidade == capacidade;
     }
 
     private int nextAvailableIndexToPush() {

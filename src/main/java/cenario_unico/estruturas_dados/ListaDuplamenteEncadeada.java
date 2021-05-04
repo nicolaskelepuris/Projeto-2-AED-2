@@ -124,28 +124,53 @@ public class ListaDuplamenteEncadeada<T> {
         logger.logSucesso("Item removido: " + noASerRemovido.valor.toString(), countToString());
     }
 
+    /**
+     * Busca o elemento no index informado
+     * @param index
+     * @return o elemento no index caso exista, null caso nao exista
+     */
     public T elementAt(int index) {
         No<T> no = nodeAt(index);
 
         return no != null ? no.valor : null;
     }
 
+    /**
+     * Busca o primeiro item da lista
+     * @return o primeiro elemento da lista caso exista, null caso nao exista
+     */
     public T getFirst() {        
         return primeiro != null ? primeiro.valor : null;
     }
 
+    /**
+     * Busca o ultimo item da lista
+     * @return o ultimo elemento da lista caso exista, null caso nao exista
+     */
     public T getLast() {        
         return ultimo != null ? ultimo.valor : null;
     }
 
+    /**
+     * Busca a quantidade de itens presentes na lista
+     * @return a quantidade de itens presentes na lista
+     */
     public int count() {
         return quantidade;
     }
 
+    /**
+     * Checa se a lista esta vazia
+     * @return true se a lista estiver vazia, false se nao estiver vazia
+     */
     public Boolean isEmpty() {
         return quantidade == 0;
     }
 
+    /**
+     * Checa se a lista esta cheia
+     * @return true se a lista estiver cheia, false se nao estiver cheia
+     */
     public Boolean isFull() {
         return capacidade == quantidade;
     }

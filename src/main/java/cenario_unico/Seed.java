@@ -12,6 +12,12 @@ import cenario_unico.estruturas_dados.Pilha;
 import cenario_unico.logging.Logger;
 
 public class Seed {
+    /**
+     * Cria e alimenta com dados genericos a fila de pessoas de acordo com a quantidade de pessoas informada
+     * @param quantidadePessoas quantidade de pessoas na fila
+     * @param logger logger da execucao do programa
+     * @return fila de pessoas com dados genericos
+     */
     public static Fila<Pessoa> seedPessoas(int quantidadePessoas, Logger logger){
         Fila<Pessoa> pessoas = new Fila<Pessoa>(quantidadePessoas, logger);
 
@@ -24,6 +30,14 @@ public class Seed {
         return pessoas;
     }
 
+    /**
+     * Cria e alimenta com dados genericos a pilha de ingressos de acordo com a quantidade de salas e ingressos informadas
+     * @param quantidadeSalas quantidade de salas que os ingressos farao referencia
+     * @param quantidadeMinimaIngressosPorSala
+     * @param quantidadeMaximaIngressosPorSala
+     * @param logger logger da execucao do programa
+     * @return
+     */
     public static Pilha<Ingresso> seedIngressos(int quantidadeSalas, int quantidadeMinimaIngressosPorSala, int quantidadeMaximaIngressosPorSala, Logger logger) {
         Random random = new Random();
         Ingresso ingresso;
