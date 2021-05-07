@@ -1,0 +1,149 @@
+
+Comando: Buscar e remover o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 0
+Erro: Fila vazia, nao foi possivel buscar e remover o primeiro item da fila
+Estrutura de dados apos comando -> Fila: Quantidade -> 0
+
+Comando: Adicionar o item no final da fila: 1
+Estrutura de dados antes do comando -> Fila: Quantidade -> 0
+Sucesso: Item adicionado: 1
+Estrutura de dados apos comando -> Fila: Quantidade -> 1
+
+Comando: Buscar o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 1
+Sucesso: Foi buscado o primeiro item da fila: 1
+Estrutura de dados apos comando -> Fila: Quantidade -> 1
+
+Comando: Buscar e remover o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 1
+Sucesso: Foi buscado e removido o primeiro item da fila: 1
+Estrutura de dados apos comando -> Fila: Quantidade -> 0
+
+Comando: Buscar o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 0
+Erro: Fila vazia, nao foi possivel buscar o primeiro item da fila
+Estrutura de dados apos comando -> Fila: Quantidade -> 0
+
+Comando: Adicionar o item no final da fila: 1
+Estrutura de dados antes do comando -> Fila: Quantidade -> 0
+Sucesso: Item adicionado: 1
+Estrutura de dados apos comando -> Fila: Quantidade -> 1
+
+Comando: Adicionar o item no final da fila: 2
+Estrutura de dados antes do comando -> Fila: Quantidade -> 1
+Sucesso: Item adicionado: 2
+Estrutura de dados apos comando -> Fila: Quantidade -> 2
+
+Comando: Adicionar o item no final da fila: 3
+Estrutura de dados antes do comando -> Fila: Quantidade -> 2
+Sucesso: Item adicionado: 3
+Estrutura de dados apos comando -> Fila: Quantidade -> 3
+
+Comando: Buscar e remover o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 3
+Sucesso: Foi buscado e removido o primeiro item da fila: 1
+Estrutura de dados apos comando -> Fila: Quantidade -> 2
+
+Comando: Buscar o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 2
+Sucesso: Foi buscado o primeiro item da fila: 2
+Estrutura de dados apos comando -> Fila: Quantidade -> 2
+
+Comando: Buscar e remover o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 2
+Sucesso: Foi buscado e removido o primeiro item da fila: 2
+Estrutura de dados apos comando -> Fila: Quantidade -> 1
+
+Comando: Buscar e remover o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 1
+Sucesso: Foi buscado e removido o primeiro item da fila: 3
+Estrutura de dados apos comando -> Fila: Quantidade -> 0
+
+Comando: Buscar e remover o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 0
+Erro: Fila vazia, nao foi possivel buscar e remover o primeiro item da fila
+Estrutura de dados apos comando -> Fila: Quantidade -> 0
+
+Comando: Adicionar o item no final da fila: 1
+Estrutura de dados antes do comando -> Fila: Quantidade -> 0
+Sucesso: Item adicionado: 1
+Estrutura de dados apos comando -> Fila: Quantidade -> 1
+
+Comando: Adicionar o item no final da fila: 2
+Estrutura de dados antes do comando -> Fila: Quantidade -> 1
+Sucesso: Item adicionado: 2
+Estrutura de dados apos comando -> Fila: Quantidade -> 2
+
+Comando: Adicionar o item no final da fila: 3
+Estrutura de dados antes do comando -> Fila: Quantidade -> 2
+Sucesso: Item adicionado: 3
+Estrutura de dados apos comando -> Fila: Quantidade -> 3
+
+Comando: Adicionar o item no final da fila: 4
+Estrutura de dados antes do comando -> Fila: Quantidade -> 3
+Sucesso: Item adicionado: 4
+Estrutura de dados apos comando -> Fila: Quantidade -> 4
+
+Comando: Adicionar o item no final da fila: 5
+Estrutura de dados antes do comando -> Fila: Quantidade -> 4
+Sucesso: Item adicionado: 5
+Estrutura de dados apos comando -> Fila: Quantidade -> 5
+
+Comando: Adicionar o item no final da fila: 6
+Estrutura de dados antes do comando -> Fila: Quantidade -> 5
+Erro: Fila cheia, nao foi possivel adicionar o item
+Estrutura de dados apos comando -> Fila: Quantidade -> 5
+
+Comando: Adicionar o item no final da fila: 7
+Estrutura de dados antes do comando -> Fila: Quantidade -> 5
+Erro: Fila cheia, nao foi possivel adicionar o item
+Estrutura de dados apos comando -> Fila: Quantidade -> 5
+
+Comando: Buscar e remover o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 5
+Sucesso: Foi buscado e removido o primeiro item da fila: 1
+Estrutura de dados apos comando -> Fila: Quantidade -> 4
+
+Comando: Buscar e remover o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 4
+Sucesso: Foi buscado e removido o primeiro item da fila: 2
+Estrutura de dados apos comando -> Fila: Quantidade -> 3
+
+Comando: Buscar e remover o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 3
+Sucesso: Foi buscado e removido o primeiro item da fila: 3
+Estrutura de dados apos comando -> Fila: Quantidade -> 2
+
+Comando: Buscar e remover o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 2
+Sucesso: Foi buscado e removido o primeiro item da fila: 4
+Estrutura de dados apos comando -> Fila: Quantidade -> 1
+
+Comando: Buscar e remover o primeiro item da fila
+Estrutura de dados antes do comando -> Fila: Quantidade -> 1
+Sucesso: Foi buscado e removido o primeiro item da fila: 5
+Estrutura de dados apos comando -> Fila: Quantidade -> 0
+
+Comando: Adicionar o item no final da fila: 1
+Estrutura de dados antes do comando -> Fila: Quantidade -> 0
+Sucesso: Item adicionado: 1
+Estrutura de dados apos comando -> Fila: Quantidade -> 1
+
+Comando: Adicionar o item no final da fila: 1
+Estrutura de dados antes do comando -> Fila: Quantidade -> 1
+Sucesso: Item adicionado: 1
+Estrutura de dados apos comando -> Fila: Quantidade -> 2
+
+Comando: Adicionar o item no final da fila: 2
+Estrutura de dados antes do comando -> Fila: Quantidade -> 2
+Sucesso: Item adicionado: 2
+Estrutura de dados apos comando -> Fila: Quantidade -> 3
+
+Comando: Adicionar o item no final da fila: 3
+Estrutura de dados antes do comando -> Fila: Quantidade -> 3
+Sucesso: Item adicionado: 3
+Estrutura de dados apos comando -> Fila: Quantidade -> 4
+
+
+Fim do teste
+Fila: Inicio -> 1 - 1 - 2 - 3

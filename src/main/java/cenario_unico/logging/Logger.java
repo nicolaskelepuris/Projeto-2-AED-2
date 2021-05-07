@@ -5,7 +5,6 @@ import java.io.IOException;
 
 public class Logger {
     final StringBuilder log;
-    final String path = "log-execucao.txt";
 
     public Logger() {
         log = new StringBuilder();
@@ -27,7 +26,7 @@ public class Logger {
         log.append("Sucesso: " + message + "\nEstrutura de dados apos comando -> " + estruturaDados + "\n");
     }
 
-    public void generateFile() {
+    public void generateFile(String path) {
         try {
             FileWriter myWriter = new FileWriter(path);
             myWriter.write(log.toString());

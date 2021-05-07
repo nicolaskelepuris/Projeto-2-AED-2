@@ -32,7 +32,7 @@ public class Fila<T> {
      * @return primeiro item da fila caso exista, null caso nao exista
      */
     public T dequeue() {
-        logger.logComando("Busca e remove o primeiro item da fila", countToString());
+        logger.logComando("Buscar e remover o primeiro item da fila", countToString());
 
         if (isEmpty()) {
             logger.logErro("Fila vazia, nao foi possivel buscar e remover o primeiro item da fila", countToString());

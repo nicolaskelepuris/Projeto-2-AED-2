@@ -1,0 +1,152 @@
+
+Comando: Remover o item no index: 0 da lista
+Estrutura de dados antes do comando -> Lista: Quantidade -> 0
+Erro: Lista vazia, nao foi possivel remover o item
+Estrutura de dados apos comando -> Lista: Quantidade -> 0
+
+Comando: Remover o item no index: 1 da lista
+Estrutura de dados antes do comando -> Lista: Quantidade -> 0
+Erro: Lista vazia, nao foi possivel remover o item
+Estrutura de dados apos comando -> Lista: Quantidade -> 0
+
+Comando: Remover o item no index: 2 da lista
+Estrutura de dados antes do comando -> Lista: Quantidade -> 0
+Erro: Lista vazia, nao foi possivel remover o item
+Estrutura de dados apos comando -> Lista: Quantidade -> 0
+
+Comando: Adicionar o item no final da lista: 1
+Estrutura de dados antes do comando -> Lista: Quantidade -> 0
+Sucesso: Item adicionado: 1
+Estrutura de dados apos comando -> Lista: Quantidade -> 1
+
+Comando: Remover o item no index: 0 da lista
+Estrutura de dados antes do comando -> Lista: Quantidade -> 1
+Sucesso: Item removido: 1
+Estrutura de dados apos comando -> Lista: Quantidade -> 0
+
+Comando: Adicionar o item no final da lista: 1
+Estrutura de dados antes do comando -> Lista: Quantidade -> 0
+Sucesso: Item adicionado: 1
+Estrutura de dados apos comando -> Lista: Quantidade -> 1
+
+Comando: Adicionar o item no final da lista: 2
+Estrutura de dados antes do comando -> Lista: Quantidade -> 1
+Sucesso: Item adicionado: 2
+Estrutura de dados apos comando -> Lista: Quantidade -> 2
+
+Comando: Adicionar o item no final da lista: 3
+Estrutura de dados antes do comando -> Lista: Quantidade -> 2
+Sucesso: Item adicionado: 3
+Estrutura de dados apos comando -> Lista: Quantidade -> 3
+
+Comando: Remover o item no index: 0 da lista
+Estrutura de dados antes do comando -> Lista: Quantidade -> 3
+Sucesso: Item removido: 1
+Estrutura de dados apos comando -> Lista: Quantidade -> 2
+
+Comando: Remover o item no index: 0 da lista
+Estrutura de dados antes do comando -> Lista: Quantidade -> 2
+Sucesso: Item removido: 2
+Estrutura de dados apos comando -> Lista: Quantidade -> 1
+
+Comando: Remover o item no index: 0 da lista
+Estrutura de dados antes do comando -> Lista: Quantidade -> 1
+Sucesso: Item removido: 3
+Estrutura de dados apos comando -> Lista: Quantidade -> 0
+
+Comando: Adicionar o item no final da lista: 1
+Estrutura de dados antes do comando -> Lista: Quantidade -> 0
+Sucesso: Item adicionado: 1
+Estrutura de dados apos comando -> Lista: Quantidade -> 1
+
+Comando: Adicionar o item no final da lista: 2
+Estrutura de dados antes do comando -> Lista: Quantidade -> 1
+Sucesso: Item adicionado: 2
+Estrutura de dados apos comando -> Lista: Quantidade -> 2
+
+Comando: Adicionar o item no final da lista: 3
+Estrutura de dados antes do comando -> Lista: Quantidade -> 2
+Sucesso: Item adicionado: 3
+Estrutura de dados apos comando -> Lista: Quantidade -> 3
+
+Comando: Adicionar o item no final da lista: 4
+Estrutura de dados antes do comando -> Lista: Quantidade -> 3
+Sucesso: Item adicionado: 4
+Estrutura de dados apos comando -> Lista: Quantidade -> 4
+
+Comando: Adicionar o item no final da lista: 5
+Estrutura de dados antes do comando -> Lista: Quantidade -> 4
+Sucesso: Item adicionado: 5
+Estrutura de dados apos comando -> Lista: Quantidade -> 5
+
+Comando: Adicionar o item no final da lista: 6
+Estrutura de dados antes do comando -> Lista: Quantidade -> 5
+Erro: Lista cheia, nao foi possivel adicionar o item
+Estrutura de dados apos comando -> Lista: Quantidade -> 5
+
+Comando: Adicionar o item no final da lista: 7
+Estrutura de dados antes do comando -> Lista: Quantidade -> 5
+Erro: Lista cheia, nao foi possivel adicionar o item
+Estrutura de dados apos comando -> Lista: Quantidade -> 5
+
+Comando: Remover o item no index: 3 da lista
+Estrutura de dados antes do comando -> Lista: Quantidade -> 5
+Sucesso: Item removido: 4
+Estrutura de dados apos comando -> Lista: Quantidade -> 4
+
+Comando: Remover o item no index: 0 da lista
+Estrutura de dados antes do comando -> Lista: Quantidade -> 4
+Sucesso: Item removido: 1
+Estrutura de dados apos comando -> Lista: Quantidade -> 3
+
+Comando: Remover o item no index: 0 da lista
+Estrutura de dados antes do comando -> Lista: Quantidade -> 3
+Sucesso: Item removido: 2
+Estrutura de dados apos comando -> Lista: Quantidade -> 2
+
+Comando: Remover o item no index: 0 da lista
+Estrutura de dados antes do comando -> Lista: Quantidade -> 2
+Sucesso: Item removido: 3
+Estrutura de dados apos comando -> Lista: Quantidade -> 1
+
+Comando: Remover o item no index: 0 da lista
+Estrutura de dados antes do comando -> Lista: Quantidade -> 1
+Sucesso: Item removido: 5
+Estrutura de dados apos comando -> Lista: Quantidade -> 0
+
+Comando: Remover o item no index: 0 da lista
+Estrutura de dados antes do comando -> Lista: Quantidade -> 0
+Erro: Lista vazia, nao foi possivel remover o item
+Estrutura de dados apos comando -> Lista: Quantidade -> 0
+
+Comando: Adicionar o item no final da lista: 1
+Estrutura de dados antes do comando -> Lista: Quantidade -> 0
+Sucesso: Item adicionado: 1
+Estrutura de dados apos comando -> Lista: Quantidade -> 1
+
+Comando: Adicionar o item no final da lista: 3
+Estrutura de dados antes do comando -> Lista: Quantidade -> 1
+Sucesso: Item adicionado: 3
+Estrutura de dados apos comando -> Lista: Quantidade -> 2
+
+Comando: Adicionar o item no final da lista: 4
+Estrutura de dados antes do comando -> Lista: Quantidade -> 2
+Sucesso: Item adicionado: 4
+Estrutura de dados apos comando -> Lista: Quantidade -> 3
+
+Comando: Inserir o item: 2 no index: 1 da lista
+Estrutura de dados antes do comando -> Lista: Quantidade -> 3
+Sucesso: Item inserido: 2
+Estrutura de dados apos comando -> Lista: Quantidade -> 4
+
+Comando: Inserir o item: 5 no index: 4 da lista
+Estrutura de dados antes do comando -> Lista: Quantidade -> 4
+
+Comando: Adicionar o item no final da lista: 5
+Estrutura de dados antes do comando -> Lista: Quantidade -> 4
+Sucesso: Item adicionado: 5
+Estrutura de dados apos comando -> Lista: Quantidade -> 5
+
+
+Fim do teste
+1 - 2 - 3 - 4 - 5

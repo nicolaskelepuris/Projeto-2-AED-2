@@ -106,7 +106,7 @@ public class Pilha<T> {
             return "Nao existem itens adicionados";
         }
 
-        String str = pilha[0].toString();
+        String str = "Pilha: base da pilha -> " + pilha[0].toString();
 
         for (int i = 1; i < quantidade; i++) {
             str = String.join(" - ", str, pilha[i].toString());

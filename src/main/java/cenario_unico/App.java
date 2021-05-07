@@ -17,17 +17,18 @@ public final class App {
     }
 
     public static void main(String[] args) {
+        Testes.testarEstrututrasDeDados();
 
         final Logger logger = new Logger();
-        Fila<Pessoa> pessoas = Seed.seedPessoas(quantidadePessoas, logger);
-        Pilha<Ingresso> ingressos = Seed.seedIngressos(quantidadeSalas, quantidadeMinimaIngressosPorSala,
+        final Fila<Pessoa> pessoas = Seed.seedPessoas(quantidadePessoas, logger);
+        final Pilha<Ingresso> ingressos = Seed.seedIngressos(quantidadeSalas, quantidadeMinimaIngressosPorSala,
                 quantidadeMaximaIngressosPorSala, logger);
 
         ListaDuplamenteEncadeada<Ingresso> ingressosDistribuidos = DistribuirIngressos(ingressos, pessoas, logger);
 
         logger.log("\n\n\nIngressos distribuidos:\n\t" + ingressosDistribuidos.toString());
 
-        logger.generateFile();
+        logger.generateFile("log-execucao.txt");
     }
 
     private static ListaDuplamenteEncadeada<Ingresso> DistribuirIngressos(Pilha<Ingresso> ingressos, Fila<Pessoa> pessoas,

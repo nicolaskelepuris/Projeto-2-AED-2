@@ -1,0 +1,149 @@
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 0
+Erro: Pilha vazia, nao foi possivel buscar e remover o item no topo da pilha
+Estrutura de dados apos comando -> Pilha: Quantidade -> 0
+
+Comando: Adicionar o item no topo da pilha: 1
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 0
+Sucesso: Item adicionado: 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 1
+
+Comando: Buscar o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 1
+Sucesso: Foi buscado o item no topo da pilha: 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 1
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 1
+Sucesso: Foi buscado e removido o item no topo da pilha: 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 0
+
+Comando: Buscar o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 0
+Erro: Pilha vazia, nao foi possivel buscar o item no topo da pilha
+Estrutura de dados apos comando -> Pilha: Quantidade -> 0
+
+Comando: Adicionar o item no topo da pilha: 1
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 0
+Sucesso: Item adicionado: 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 1
+
+Comando: Adicionar o item no topo da pilha: 2
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 1
+Sucesso: Item adicionado: 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 2
+
+Comando: Adicionar o item no topo da pilha: 3
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 2
+Sucesso: Item adicionado: 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 3
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 3
+Sucesso: Foi buscado e removido o item no topo da pilha: 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 2
+
+Comando: Buscar o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 2
+Sucesso: Foi buscado o item no topo da pilha: 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 2
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 2
+Sucesso: Foi buscado e removido o item no topo da pilha: 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 1
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 1
+Sucesso: Foi buscado e removido o item no topo da pilha: 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 0
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 0
+Erro: Pilha vazia, nao foi possivel buscar e remover o item no topo da pilha
+Estrutura de dados apos comando -> Pilha: Quantidade -> 0
+
+Comando: Adicionar o item no topo da pilha: 1
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 0
+Sucesso: Item adicionado: 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 1
+
+Comando: Adicionar o item no topo da pilha: 2
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 1
+Sucesso: Item adicionado: 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 2
+
+Comando: Adicionar o item no topo da pilha: 3
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 2
+Sucesso: Item adicionado: 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 3
+
+Comando: Adicionar o item no topo da pilha: 4
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 3
+Sucesso: Item adicionado: 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 4
+
+Comando: Adicionar o item no topo da pilha: 5
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 4
+Sucesso: Item adicionado: 5
+Estrutura de dados apos comando -> Pilha: Quantidade -> 5
+
+Comando: Adicionar o item no topo da pilha: 6
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 5
+Erro: Pilha cheia, nao foi possivel adicionar o item
+Estrutura de dados apos comando -> Pilha: Quantidade -> 5
+
+Comando: Adicionar o item no topo da pilha: 7
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 5
+Erro: Pilha cheia, nao foi possivel adicionar o item
+Estrutura de dados apos comando -> Pilha: Quantidade -> 5
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 5
+Sucesso: Foi buscado e removido o item no topo da pilha: 5
+Estrutura de dados apos comando -> Pilha: Quantidade -> 4
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 4
+Sucesso: Foi buscado e removido o item no topo da pilha: 4
+Estrutura de dados apos comando -> Pilha: Quantidade -> 3
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 3
+Sucesso: Foi buscado e removido o item no topo da pilha: 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 2
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 2
+Sucesso: Foi buscado e removido o item no topo da pilha: 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 1
+
+Comando: Buscar e remover o item no topo da pilha
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 1
+Sucesso: Foi buscado e removido o item no topo da pilha: 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 0
+
+Comando: Adicionar o item no topo da pilha: 1
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 0
+Sucesso: Item adicionado: 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 1
+
+Comando: Adicionar o item no topo da pilha: 1
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 1
+Sucesso: Item adicionado: 1
+Estrutura de dados apos comando -> Pilha: Quantidade -> 2
+
+Comando: Adicionar o item no topo da pilha: 2
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 2
+Sucesso: Item adicionado: 2
+Estrutura de dados apos comando -> Pilha: Quantidade -> 3
+
+Comando: Adicionar o item no topo da pilha: 3
+Estrutura de dados antes do comando -> Pilha: Quantidade -> 3
+Sucesso: Item adicionado: 3
+Estrutura de dados apos comando -> Pilha: Quantidade -> 4
+
+
+Fim do teste
+Pilha: base da pilha -> 1 - 1 - 2 - 3

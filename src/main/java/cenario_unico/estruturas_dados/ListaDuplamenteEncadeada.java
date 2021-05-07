@@ -56,7 +56,7 @@ public class ListaDuplamenteEncadeada<T> {
      * @param item - item a ser inserido
      */
     public void inserir(int index, T item) {
-        logger.logComando("Insere o item: " + item.toString() + " no index: " + index + " da lista", countToString());
+        logger.logComando("Inserir o item: " + item.toString() + " no index: " + index + " da lista", countToString());
         if (!isValidIndexToInsert(index)) {
             logger.logErro("Index fora do range, nao foi possivel inserir o item", countToString());
             return;
@@ -67,8 +67,6 @@ public class ListaDuplamenteEncadeada<T> {
             return;
         }
 
-        logger.logSucesso("Item inserido: " + item.toString(), countToString());
-
         if (isLastPossiblePositionToInsert(index)) {
             add(item);
             return;
@@ -76,6 +74,7 @@ public class ListaDuplamenteEncadeada<T> {
 
         if (isFirstIndex(index)) {
             insertPrimeiro(item);
+            logger.logSucesso("Item inserido: " + item.toString(), countToString());
             return;
         }
 
@@ -83,45 +82,49 @@ public class ListaDuplamenteEncadeada<T> {
         No<T> noNoIndexRequerido = nodeAt(index);
 
         insertNode(noASerInserido, noNoIndexRequerido);
+        logger.logSucesso("Item inserido: " + item.toString(), countToString());
     }
     /**
      * Remove o item no index informado
      * @param index - precisa ser um index valido (maior/igual a 0 e menor/igual a quantidade de itens - 1)
      */
     public void remover(int index) {
-        logger.logComando("Remove o item no index: " + index + " da lista", countToString());
-        if (!indexExists(index)) {
-            logger.logErro("Index fora do range, nao foi possivel remover o item", countToString());
-            return;
-        }
+        logger.logComando("Remover o item no index: " + index + " da lista", countToString());
 
         if (isEmpty()) {
             logger.logErro("Lista vazia, nao foi possivel remover o item", countToString());
             return;
         }
 
+        if (!indexExists(index)) {
+            logger.logErro("Index fora do range, nao foi possivel remover o item", countToString());
+            return;
+        }
+
         if (quantidade == 1) {
-            logger.logSucesso("Item removido: " + primeiro.valor.toString(), countToString());
+            logger.logSucesso("Item removido: " + primeiro.valor.toString(), "Lista: Quantidade -> " + Integer.toString(quantidade - 1));
             clear();
             return;
         }
 
         if (isFirstIndex(index)) {
-            logger.logSucesso("Item removido: " + primeiro.valor.toString(), countToString());
+            logger.logSucesso("Item removido: " + primeiro.valor.toString(), "Lista: Quantidade -> " + Integer.toString(quantidade - 1));
             removeFirstItem();
             return;
         }
 
         if (isLastIndex(index)) {
-            logger.logSucesso("Item removido: " + ultimo.valor.toString(), countToString());
+            logger.logSucesso("Item removido: " + ultimo.valor.toString(), "Lista: Quantidade -> " + Integer.toString(quantidade - 1));
             removeLastItem();
             return;
         }
 
         No<T> noASerRemovido = nodeAt(index);
 
+        
+        logger.logSucesso("Item removido: " + noASerRemovido.valor.toString(), "Lista: Quantidade -> " + Integer.toString(quantidade - 1));
+
         removeNode(noASerRemovido);
-        logger.logSucesso("Item removido: " + noASerRemovido.valor.toString(), countToString());
     }
 
     /**
@@ -185,7 +188,7 @@ public class ListaDuplamenteEncadeada<T> {
         
         No<T> noAtual = primeiro.proximo;
         for (int i = 1; i < quantidade; i++) {
-            str = String.join("\n\t", str, noAtual.valor.toString());
+            str = String.join(" - ", str, noAtual.valor.toString());
             noAtual = noAtual.proximo;
         }
         
